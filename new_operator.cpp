@@ -1,5 +1,9 @@
 // Program to use the new and delete operator in cpp.
 
+// new operator is used to allocate the memory dynamically.
+// delete operator is used to free the memory.
+
+
 #include <iostream>
 using namespace std;
 
